@@ -1,5 +1,1 @@
-# gsoc2015
-My Google Summer of Code 2015 Repo
-
-THIS PAGE IS UNDER CONSTRUCTION
-Stay tuned this summer for updates
+A web application for geologic thin section data analysis and GIS mapping. Users will be able to upload optical microscope images and SEM data. The images will be converted to slippy maps with different layers for each microscope image type. Users will share locations, elemental data, and get a detailed PDF report. This project combines image analysis, GIS, SEM data, and mineralogy based geology - all open source and as an online tool for user collaboration around the world.
