@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+
+    <link rel="stylesheet" href="tabIndex.css">
+    <link rel="stylesheet" href="accordianIndex.css">
+
+    <link rel="stylesheet" href="accordianPlusTabindex.css">
+    <link rel="stylesheet" href="jumbotron.css">
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+  </head>
+
+  <body>
+
+
+    <div class="jumbotron">
+		<div class="container">
+			<h1>Geology</h1>
+
+			<div class="accordionSpace">
+				<ul id="accordion">
+					<li>Igneous </li>
+					<ul>
+						<li><a href="#">Overview</a></li>
+						<li><a href="#">Intrusive</a></li>
+						<li><a href="#">Extrusive</a></li>
+					</ul>
+					<li>Metamorphic</li>
+					<ul>
+						<li><a href="#">Overview</a></li>
+						<li><a href="#">Low P & High T</a></li>
+						<li><a href="#">High P & Low T</a></li>
+						<li><a href="#">High P & High T</a></li>
+					</ul>
+					<li>Sedimentary</li>
+					<ul>
+						<li><a href="#">Overview</a></li>
+						<li><a href="#">Water</a></li>
+						<li><a href="#">Other</a></li>
+					</ul>
+				</ul>
+			</div><!-- Accordion space -->
+
+
+			<div class="tabSpace">
+				<ul class="tabs"> 
+				        <li class="active" rel="tab1"> Convergence</li>
+				        <li rel="tab2"> Metamorphic</li>
+				        <li rel="tab3"> Igneous </li>
+				        <li rel="tab4"> Sedimentary</li>  
+				</ul>
+
+
+				<div class="tab_container"> 
+				
+				    <div id="tab1" class="tab_content"> 
+						<p><img class="tabImage" src="http://www.visionbloom.com/images/css-cascading-style-sheets.jpg"> <br />
+				      	This is what gives your page style
+				    	</p>
+				    	
+					</div><!-- #tab1 -->
+
+		     		<div id="tab2" class="tab_content"> 
+				       <p><img class="tabImage" src="http://www.visionbloom.com/images/css-cascading-style-sheets.jpg"> <br />
+				      	This is what gives your page style
+				       </p>
+		     		</div><!-- #tab2 -->
+
+		     		<div id="tab3" class="tab_content"> 
+				       <p><img class="tabImage" src="https://c1.staticflickr.com/1/206/506006599_02f31abb25_z.jpg?zz=1"> <br />
+				      	The top links for your page
+				       </p>
+		     		</div><!-- #tab3 -->
+
+		     		<div id="tab4" class="tab_content"> 
+				       <p><img class="tabImage" src="http://pixabay.com/static/uploads/photo/2013/07/12/16/27/ruler-150936_640.png"> <br />
+				      	The bottom links for your page
+				       </p>
+		     		</div><!-- #tab4 --> 
+		 		</div> <!-- .tab_container --> 
+		 	</div> <!-- .tabSpace -->
+
+		</div><!--container --> 
+    </div> <!-- .jumbotron --> 
+
+	<script type="text/javascript" src="tabIndex.js"></script> 
+	<script type="text/javascript" src="accordianIndex.js"></script>
+  </body>
+</html>

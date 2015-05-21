@@ -1,0 +1,28 @@
+.jumbotron {
+  background-color: DarkSlateGray ;
+}
+
+.jumbotron h1 {
+  font-size: 4vw;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-left: 2%;
+}
+
+.jumbotron p {
+  font-size: 2vw;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  margin-top: 1%;
+  margin-left: 5%;
+  color: white;
+}
+
+.jumbotron #workExperienceList, .jumbotron #schoolExperienceList,  .jumbotron #skillsList{
+  font-size: 1.5vw;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  margin-left: 5%;
+  color: white;
+}

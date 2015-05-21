@@ -1,0 +1,42 @@
+body, input{
+	font-family: Calibri, Arial;
+}
+.accordian_tab_header {
+	list-style: none;
+	padding: 0 0 0 0;
+	width: 170px;
+}
+.accordian_tab_header li{
+	display: block;
+	background-color: #CCCCFF;
+	font-weight: bold;
+	text-align: center;
+
+	margin: 1px;
+	cursor: pointer;
+	padding: 5 5 5 7px;
+
+	list-style: circle;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+.accordian_tab_header ul {
+	list-style: none;
+	padding: 0 0 0 0;
+	display: none;
+}
+.accordian_tab_header ul li{
+	text-align: left;
+	font-weight: normal;
+	cursor: auto;
+	background-color: #fff;
+	padding: 0 0 0 7px;
+}
+.accordian_tab_header a {
+	text-decoration: none;
+	color: black;
+}
+.accordian_tab_header a:hover {
+	text-decoration: underline;
+}

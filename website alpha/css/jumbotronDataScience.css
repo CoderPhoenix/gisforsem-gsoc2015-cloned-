@@ -1,0 +1,18 @@
+.jumbotron {
+  background-image:url('geologyDataScience.png');
+  height: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 20%;
+}
+
+.jumbotron #line1{
+  font-size: 5vw;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  color: black;
+}
