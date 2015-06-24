@@ -1,0 +1,43 @@
+
+#footerAuthor, #footerDataScience, #footerGeology{
+    height: auto;
+    width:30%;
+
+    display: inline-block;
+    vertical-align: top;
+
+    text-align: left;
+    font-size: 1vw;
+    color: black;
+}
+
+#footerAuthor h3, #footerDataScience h3, #footerGeology h3{
+    text-align: center;
+}
+
+#footerAuthor p a{
+	color: black;
+}
+
+#footerAuthor #authorPic{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+#footerAuthor{ 
+    margin-left: 3%;
+}
+
+#footerDataScience { 
+}
+
+#footerGeology { 
+}
+
+#footerGeology #geologyPic{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+

@@ -1,0 +1,43 @@
+ #headerHome, #headerResume, #headerSpacer, #headerDataScience, #headerGeology{
+    height: auto;
+    width: 15%;
+    border-radius: 10%;
+
+    display: inline-block;
+
+    text-align: center;
+    font-size: 2vw;
+}
+
+#headerHome a, #headerResume a, #headerDataScience a, #headerGeology a{
+   text-decoration: none; 
+   color: black;
+}
+
+#headerHome {
+    background-color: #FFFF99;
+    width: 10%;
+}
+
+#headerResume {
+    background-color: #CCFF99;
+}
+
+#headerSpacer {
+    background-color: white;
+    width: 30%;
+}
+
+#headerDataScience {
+    background-color: #99FFCC;
+     width: 20%;
+}
+
+#headerGeology {
+    background-color: #CCCCFF;
+}
+
+
+
+
+

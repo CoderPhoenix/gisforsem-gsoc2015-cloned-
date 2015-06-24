@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+}
+
+.ListOfThinSections{
+	background-color: purple;
+	width: 20%;
+	position: relative;
+	float: right;
+	
+}
+
+.EachSampleDisplay {
+	background-color: blue;
+	width: 80%;
+	position: relative;
+	float: left;
+	
+}
+
+.MapDisplay {
+	background-color: green;
+	width: 60%;
+}
+
+.ChemicalDisplay {
+	background-color: pink;
+	width: 60%;
+}
+
+.AdditionalInfoDisplay {
+	background-color: grey;
+	width: 60%;
+}

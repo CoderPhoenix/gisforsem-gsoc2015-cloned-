@@ -1,0 +1,152 @@
+body {
+    #background-color: lightblue;
+}
+
+ #headerHome, #headerResume, #headerSpacer, #headerDataScience, #headerGeology{
+    height: auto;
+    width: 15%;
+    border-radius: 10%;
+
+    display: inline-block;
+
+    text-align: center;
+    font-size: 2vw;
+}
+
+#headerHome a, #headerResume a, #headerDataScience a, #headerGeology a{
+   text-decoration: none; 
+   color: black;
+}
+
+#headerHome {
+    background-color: #FFFF99;
+    width: 10%;
+}
+
+#headerResume {
+    background-color: #CCFF99;
+}
+
+#headerSpacer {
+    background-color: white;
+    width: 30%;
+}
+
+#headerDataScience {
+    background-color: #99FFCC;
+     width: 20%;
+}
+
+#headerGeology {
+    background-color: #CCCCFF;
+}
+
+
+
+
+
+#Jumbotron {
+	background-color: #green;
+	width: 100%;
+	height: 100%;
+ }
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+	text-align: center;
+}
+
+#Left, #Center, #Right {
+	display: inline-block;
+	width: 32%;
+	height: 400px;
+}
+
+#Left{
+	background-color: #red;
+}
+
+#Center{
+	background-color: #blue;
+}
+
+#Right {
+	background-color: #yellow;
+}
+
+#HandSamplePicture, #CrossSectionPicture, #GeologicMap {
+	display: inline-block;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	text-align: center;
+}
+
+#CenterHeader, #CenterJumbotron, #CenterFooter{
+	display: inline-block;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	text-align: center;
+}
+
+#ChemicalData, #MineralList, #Texture {
+	display: inline-block;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+#footerAuthor, #footerDataScience, #footerGeology{
+	height: auto;
+	width:30%;
+
+	display: inline-block;
+	vertical-align: top;
+
+	text-align: left;
+	font-size: 1vw;
+	color: black;
+}
+
+#footerAuthor h3, #footerDataScience h3, #footerGeology h3{
+	text-align: center;
+}
+
+#footerAuthor{ 
+	margin-left: 3%;
+}
+
+#footerDataScience { 
+}
+
+#footerGeology { 
+}
+
+#footerAuthor p a{
+	color: black;
+}
+
+#footerAuthor #authorPic{ 
+	display: block;
+	margin-left: auto;
+	margin-right: auto 
+}
+
+#footerGeology #geologyPic{ 
+	display: block;
+	margin-left: auto;
+	margin-right: auto 
+}

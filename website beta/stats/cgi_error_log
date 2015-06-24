@@ -1,0 +1,263 @@
+20150616T120448: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/1/2.png
+convert: geometry does not contain image `./maps/document.png'.
+convert: Pixel cache allocation failed `./maps/document.png'.
+convert: Memory allocation failed `./maps/document.png'.
+
+20150616T120448: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/2/2.png
+convert: geometry does not contain image `./maps/document.png'.
+convert: Pixel cache allocation failed `./maps/document.png'.
+convert: Memory allocation failed `./maps/document.png'.
+
+20150616T120448: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/3/1.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T120448: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/2/1.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T120450: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/0/3.png
+sh: 1: Cannot fork
+PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16736 bytes) in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/sstiles-master/sstiles.php on line 484
+
+20150616T120450: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/2/0.png
+sh: 1: Cannot fork
+PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16736 bytes) in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/sstiles-master/sstiles.php on line 484
+
+20150616T120450: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/3/2.png
+convert: geometry does not contain image `./maps/document.png'.
+convert: Pixel cache allocation failed `./maps/document.png'.
+convert: Memory allocation failed `./maps/document.png'.
+
+20150616T120450: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/2/0/2.png
+convert: Negative or zero image size `./maps/document.png'.
+
+20150616T120508: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/1/1/1.png
+convert: geometry does not contain image `./maps/document.png'.
+convert: Pixel cache allocation failed `./maps/document.png'.
+convert: Memory allocation failed `./maps/document.png'.
+
+20150616T120508: www.thinsectionmap.com/sstiles-master/pad.php/maps/document.png/1/0/1.png
+convert: Negative or zero image size `./maps/document.png'.
+
+20150616T130325: www.thinsectionmap.com/Home.php
+PHP Warning:  include(/sstiles-master/demo/document.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening '/sstiles-master/demo/document.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T130409: www.thinsectionmap.com/Home.php
+PHP Warning:  include(/../../sstiles-master/demo/document.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening '/../../sstiles-master/demo/document.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T130600: www.thinsectionmap.com/Home.php
+PHP Warning:  include(/sstiles-master/demo/document.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening '/sstiles-master/demo/document.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T130602: www.thinsectionmap.com/Home.php
+PHP Warning:  include(/sstiles-master/demo/document.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening '/sstiles-master/demo/document.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T161621: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/1/0.png
+sh: 0: Cannot fork
+
+20150616T161621: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/1/1.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T161621: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/2/2.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T161621: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/1/2.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T161621: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/3/2.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T161622: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/2/0/2.png
+convert: Negative or zero image size `./maps/sample_thin_section.jpg'.
+
+20150616T161632: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/2/2.png
+sh: 0: Cannot fork
+
+20150616T161637: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/7/3.png
+sh: 0: Cannot fork
+
+20150616T161650: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/1/1/1.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T161650: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/1/0/1.png
+convert: Negative or zero image size `./maps/sample_thin_section.jpg'.
+
+20150616T161752: www.thinsectionmap.com/Home.php
+PHP Warning:  include(/themaps/sstiles-master/demo/Daisydocument.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 5
+PHP Warning:  include(): Failed opening '/themaps/sstiles-master/demo/Daisydocument.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 5
+
+20150616T162440: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/11/9.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T162440: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/11/11.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162440: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/10/11.png
+sh: 0: Cannot fork
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162440: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/9/11.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162440: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/12/11.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162442: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/4/8/11.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162443: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/4/5.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162443: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/5/5.png
+sh: 0: Cannot fork
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T162443: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/4/4.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T174038: www.thinsectionmap.com/Home.php
+PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 15
+PHP Warning:  include(http://www.thinsectionmap.com/themaps/sstiles-master/demo/Daisydocument.html): failed to open stream: no suitable wrapper could be found in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 15
+PHP Warning:  include(): Failed opening 'http://www.thinsectionmap.com/th
+20150616T174328: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): http:// wrapper is disabled in the server configura
+20150616T174443: www.thinsectionmap.com/Home.php
+PHP Warning:  include(sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_ur
+20150616T174616: www.thinsectionmap.com/Home.php
+PHP Warning:  include(sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_ur
+20150616T174846: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T174937: www.thinsectionmap.com/Home.php
+PHP Warning:  include(sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T175201: www.thinsectionmap.com/Home.php
+PHP Warning:  include(sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T175538: www.thinsectionmap.com/Home.php
+PHP Warning:  include(sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+PHP Warning:  include(): Failed opening 'sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/themaps/demo.html on line 6
+
+20150616T175656: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T175849: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T175850: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T180144: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T180148: www.thinsectionmap.com/Home.php
+PHP Warning:  include(themaps/sstiles-master/demo/Daisydocumentv2.html): failed to open stream: No such file or directory in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+PHP Warning:  include(): Failed opening 'themaps/sstiles-master/demo/Daisydocumentv2.html' for inclusion (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb11a/b256/ipg.thinsectionmapcom/jumbotronCol/centerCol.html on line 12
+
+20150616T215656: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/5/11/10.png
+sh: 0: Cannot fork
+
+20150616T215656: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/5/12/10.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150616T221411: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/1/5.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T221411: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/3/5.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150616T221411: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/sample_thin_section.jpg/3/2/5.png
+convert: geometry does not contain image `./maps/sample_thin_section.jpg'.
+convert: Pixel cache allocation failed `./maps/sample_thin_section.jpg'.
+convert: Memory allocation failed `./maps/sample_thin_section.jpg'.
+
+20150617T193818: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/2/0/1.png
+sh: 1: Cannot fork
+
+20150617T193818: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/2/2/3.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150617T193831: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/3/2/2.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150617T193831: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/3/3/2.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150617T202144: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/4/8/7.png
+sh: 0: Cannot fork
+
+20150617T202145: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/4/7/6.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150617T202145: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/4/9/8.png
+sh: 1: Cannot fork
+
+20150617T202152: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/6/36/19.png
+sh: 0: Cannot fork
+
+20150617T202152: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/6/34/19.png
+sh: 1: Cannot fork
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+
+20150617T202152: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/6/36/18.png
+sh: 1: Cannot fork
+
+20150617T202153: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/4/8/4.png
+sh: 0: Cannot fork
+
+20150617T202154: www.thinsectionmap.com/themaps/sstiles-master/pad.php/maps/DaisyWearingaHat.JPG/4/7/4.png
+sh: 0: Cannot fork
+convert: WriteBlob Failed `-'.
+

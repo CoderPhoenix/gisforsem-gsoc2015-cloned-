@@ -1,0 +1,97 @@
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+	
+				$([bM1]).click(function(){ 
+					$(".display h1").text("Thin Section Map (Plain Light) ");
+					$(".display p").text("Thin Section Map (Plain Light) Image");
+					$(".display p1").text("Thin Section Map (Plain Light) Blurb");
+				});	
+				$([bM2]).click(function(){
+					$(".display h1").text("Thin Section Maps (Crossed Polar) ");
+					$(".display p").text("Thin Section Maps (Crossed Polar) Image");
+					$(".display p1").text("Thin Section Maps (Crossed Polar) Blurb");
+				});	
+				$([bM3]).click(function(){
+					$(".display h1").text("Thin Section Maps (Transmitted Light) ");
+					$(".display p").text("Thin Section Maps (Transmitted Light) Image");
+					$(".display p1").text("Thin Section Maps (Transmitted Light) Blurb");
+				});	
+	
+	
+	
+				$([bSEM1]).click(function(){ 
+					$(".display h1").text("Thin Section Maps (Backscatter Electron) ");
+					$(".display p").text("Backscatter Electron Image");
+					$(".display p1").text("Backscatter Electron Blurb");
+				});	
+				$([bSEM2]).click(function(){
+					$(".display h1").text("Thin Section Maps (EDS) ");
+					$(".display p").text("Thin Section Maps (EDS) Image");
+					$(".display p1").text("Thin Section Maps (EDS) Blurb");
+				});	
+				$([bSEM3]).click(function(){
+					$(".display h1").text("Thin Section Maps (WDS) ");
+					$(".display p").text("Thin Section Maps (WDS) Image");
+					$(".display p1").text("Thin Section Maps (WDS) Blurb");
+				});	
+					
+				
+				$([bAD1]).click(function(){
+					$(".display h1").text("Chemical Data");
+					$(".display p").text("Chemical Data Image");
+					$(".display p1").text("Chemical Data Blurb");
+				});
+				$([bAD2]).click(function(){
+					$(".display h1").text("Hand Sample");
+					$(".display p").text("Hand Sample Image");
+					$(".display p1").text("Hand Sample Blurb");
+				});
+				$([bAD3]).click(function(){
+					$(".display h1").text("Geologic Cross Section");
+					$(".display p").text("Geologic Cross Section Image");
+					$(".display p1").text("Geologic Cross Section Blurb");
+				});
+				$([bAD4]).click(function(){
+					$(".display h1").text("Open Street Map");
+					$(".display p").text("Open Street Map Image");
+					$(".display p1").text("Open Street Map Blurb");
+				});
+				$([bAD5]).click(function(){
+					$(".display h1").text("Geologic Map");
+					$(".display p").text("Geologic Map Image");
+					$(".display p1").text("Geologic Map Blurb");
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+		<h2>Microscopic Maps</h2>
+		<button id="bM1" type="button">Thin Section Map (Plain Light)</button>
+		<button id="bM2" type="button">Thin Section Maps (Crossed Polar)</button>
+		<button id="bM3" type="button">Thin Section Maps (Transmitted Light)</button>
+		<br>
+		
+		<h2>Scanning Electron Maps</h2>
+		<button id="bSEM1" type="button">Thin Section Maps (Backscatter Electron)</button>
+		<button id="bSEM2" type="button">Thin Section Maps (EDS)</button>
+		<button id="bSEM3" type="button">Thin Section Maps (WDS)</button>
+		<br>
+		
+		<h2>Additional Data</h2>
+		<button id="bAD1" type="button">Chemical Data</button>
+		<button id="bAD2" type="button">Hand Sample</button>
+		<button id="bAD3" type="button">Geologic Cross Section</button>
+		<button id="bAD4" type="button">Open Street Map</button>
+		<button id="bAD5" type="button">Geologic Map</button>
+
+		<div class="display">
+			<h1>Title</h1>
+			<p>Image</p>
+			<p1>Blurb</p1>
+		</div>
+		
+	</body>
+</html>
