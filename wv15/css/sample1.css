@@ -5,3 +5,8 @@ body {
 #thinSectionLibrary{
     background-color: gray;
 }
+
+.tab-content{
+	width: 50%;
+	height: 50%;
+}
