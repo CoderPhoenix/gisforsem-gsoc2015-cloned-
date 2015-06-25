@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+.ListOfThinSections{
+	background-color: purple;
+	position: relative;
+	float: top;	
+}
+
+.EachSampleDisplay {
+	background-color: blue;
+	position: relative;
+	float: bottom;
+}
+
+#ThinSectionName{
+	text-align:center;
+	font-size: 2vw;
+}
+
+#MicroscopicMapButtons {
+	background-color: green;
+	position: relative;
+	width: 50%;
+	left: 25%;
+	display: inline-block;
+}
+
+.MapDisplay {
+	background-color: green;
+	position: relative;
+	width: 90%;
+	left: 3%;
+	display: inline-block;
+}
+
+#ChemicalDataButtons {
+	background-color: pink;
+	position: relative;
+	width: 50%;
+	left: 25%;
+	display: inline-block;
+}
+
+.ChemicalDisplay {
+	background-color: pink;
+	width: 90%;
+	position:relative;
+	left: 3%;
+	display: inline-block;
+}
+
+#AdditionalInfoButtons {
+	background-color: grey;
+	position: relative;
+	width: 50%;
+	left: 25%;
+	display: inline-block;
+}
+
+.AdditionalInfoDisplay {
+	background-color: grey;
+	width: 90%;
+	position:relative;
+	left: 3%;
+	display: inline-block;
+}
