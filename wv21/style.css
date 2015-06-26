@@ -1,0 +1,35 @@
+#veryTop {
+	height: 5%;
+	
+	background-color:blue;
+	
+	text-align: center;
+}
+
+#Jumbotron {
+	height: 100%;
+    margin-bottom: 10%;
+}
+
+#thinSectionLibrary {
+	position: relative;
+	float: right;	
+	width: 18%;
+}
+
+#thinSectionDisplayZone{
+	position: relative;
+	float: left;
+	width: 78%;	
+}
+
+#veryBottom {
+	height: 10%;
+	width: 78%;
+    position: absolute;
+    bottom: 0;
+	
+	background-color:red;
+	
+	text-align: center;
+}
