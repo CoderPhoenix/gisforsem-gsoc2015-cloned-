@@ -1,0 +1,11 @@
+#thinSectionLibrary {
+	position: relative;
+	float: right;	
+	width: 18%
+}
+
+#thinSectionDisplayZone{
+	position: relative;
+	float: left;
+	width: 78%;	
+}

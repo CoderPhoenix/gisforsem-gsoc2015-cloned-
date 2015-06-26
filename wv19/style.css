@@ -1,0 +1,22 @@
+#thinSectionLibrary {
+	position: relative;
+	float: right;	
+	width: 18%;
+	height: 80%;
+}
+
+#thinSectionDisplayZone{
+	position: relative;
+	float: left;
+	width: 78%;	
+	height: 80%;
+}
+
+#veryTop {
+	position: relative;
+	float: top;
+	background-color:blue;
+	height: 20%;
+	text-align: center;
+}
+
